@@ -1,0 +1,21 @@
+
+This repository is the same to the repository 
+https://github.com/LijunSun90/pursuitCCPSOR except that the capture 
+definition is modified as a position occupying based capture instead of
+the encirclement based capture, as illustrated below.
+
+
+![Alt Text](https://github.com/LijunSun90/pursuitCCPSOR/blob/master/data/illustrations/capture_occupy_1.png)
+
+![Alt Text](https://github.com/LijunSun90/pursuitCCPSOR/blob/master/data/illustrations/capture_occupy_1.png)
+
+
+
+
+
+## How to run
+Prerequisites: the codes are tested in MATLAB R2018a.
+
+Run the following m file directly:
+
+cases_statistics_test.m
